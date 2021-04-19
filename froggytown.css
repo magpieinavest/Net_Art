@@ -1,0 +1,54 @@
+<style>
+		body {}
+
+		h1 {
+		color: #68342D;
+		font-weight: bolder;
+		font-family: verdana;
+		text-align: center;
+		padding: 15px;
+	}
+	
+		p {color: #11972D;
+		font-weight: bold;
+		font-family: verdana;
+		text-align: center;
+		padding: 5px;
+	}
+
+		hr {
+		color: #FFEA5C;
+		opacity: #0.5;
+
+	}
+
+	a {
+		color: #61235A;
+	}
+
+	body {
+	 background-color: #61CE5A;
+	}
+
+	.center {
+  		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 35%;
+  		padding-top: 20px;
+	}
+
+
+		h5 {color: #61235A;
+		font-weight: normal;
+		font-family: verdana;
+		text-align: center;
+		padding: 5px
+	}
+
+ * {cursor: url(https://ani.cursors-4u.net/nature/nat-11/nat1042.ani), 
+ 	url(https://ani.cursors-4u.net/nature/nat-11/nat1037.png), 
+ 	auto !important;
+}
+
+</style>
